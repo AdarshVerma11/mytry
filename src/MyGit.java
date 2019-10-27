@@ -1,10 +1,14 @@
 public class MyGit {
-    public void myFirst(){
+    public void myFirst() {
         System.out.println("yessssss");
         //My First Comment
 
     }
-    public void mySecond(){
+
+    public void mySecond() {
         System.out.println("SSDDDSWS");
         //My Second Comment
+    }
+
+    // for extra comment
 }
